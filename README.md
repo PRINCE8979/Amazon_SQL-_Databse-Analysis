@@ -1,1 +1,1 @@
-# Amazon_SQL-_Databse-Analysis
+# Amazondb_SQL_Analysis
